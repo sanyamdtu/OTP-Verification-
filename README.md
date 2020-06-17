@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Features
+This react app can be used as a frontend UI/UX for Otp verification it uses context Api to send alerts to the UI if a number is invalid and it also displays a modal when yu have to submit the verification code.
+The app uses latest React 16 Hooks like useState and functional components adn context Api and reducer.
+There is also a npm module used called as Awesome phonenumber which validates the phone number is valid or invalid on client side.
+
 ## Available Scripts
 
 In the project directory, you can run:
